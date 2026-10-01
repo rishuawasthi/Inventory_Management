@@ -13,7 +13,7 @@
 	</parent>
 
 	<groupId>com.hcl</groupId>
-	<artifactId>inventory</artifactId>
+	<artifactId>auth-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
